@@ -4,6 +4,10 @@
 
 A modern todo app where users can add tasks, categorize them, and **automatically generate AI-prioritized tasks** using Google's **Gemini 2.0 API**.
 
+## System Design Diagram
+
+ *![System Design Diagram](https://github.com/shafaet3/smart-todo-app/blob/main/diagram.jpg)*
+
 ---
 
 ## 📸 Preview
