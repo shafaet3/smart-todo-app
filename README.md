@@ -44,7 +44,7 @@ A brief glance at what this application offers:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone [https://github.com/shafaet3/smart-todo-app.git](https://github.com/shafaet3/smart-todo-app.git) 
+git clone https://github.com/shafaet3/smart-todo-app.git
 cd smart-todo-app
 
 ```
